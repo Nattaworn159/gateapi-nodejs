@@ -18,7 +18,7 @@
     "author": "Gate",
     "license": "Unlicense",
     "dependencies": {
-        "axios": "^1.8.4",
+        "axios": "^1.11.0",
         "@types/node": "^8.10.48",
         "json-bigint": "^1.0.0"
     },
